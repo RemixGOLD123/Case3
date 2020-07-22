@@ -345,7 +345,7 @@ h2 {
   position: relative;
   z-index: 15;
   height: 788px;
-  background: url(../img/intro_bg.jpg);
+  background: url(/../img/intro_bg.jpg);
   background-position: center;
 }
 
